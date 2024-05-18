@@ -4,13 +4,13 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/swcarpentry/r-novice-gapminder/binder?urlpath=rstudio)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3265164.svg)](https://doi.org/10.5281/zenodo.3265164)
 
-# R for Reproducible Scientific Analysis
+# R básico para Análisis Cienfiticos Reproducibles
 
-An introduction to R for non-programmers using the [Gapminder][gapminder] data.
-Please see [https://swcarpentry.github.io/r-novice-gapminder](https://swcarpentry.github.io/r-novice-gapminder) for a rendered version of this material,
-[the lesson template documentation][lesson-example]
-for instructions on formatting, building, and submitting material,
-or run `make` in this directory for a list of helpful commands.
+Una introducción a R para no programadores que utilizan los datos [Gapminder][gapminder].
+Consulte [https://swcarpentry.github.io/r-novice-gapminder](https://caemillan.github.io/r-basico) para obtener una versión renderizada de este material.
+[la documentación de la plantilla de la lección][ejemplo de lección]
+para obtener instrucciones sobre cómo formatear, crear y enviar material,
+o ejecute `make` en este directorio para obtener una lista de comandos útiles.
 
 The goal of this lesson is to teach novice programmers to write modular code
 and best practices for using R for data analysis. R is commonly used in many
@@ -33,15 +33,9 @@ usability.
 
 Current Maintainers:
 
-- [Naupaka Zimmerman][zimmerman_naupaka]
+- Carlos Millán Arancibia [Carlos Millán Arancibia][https://github.com/caemillan]
 - [Sehrish Kanwal](https://github.com/skanwal)
 - [Matthieu Bruneaux](https://github.com/matthieu-bruneaux)
-
-Previous Maintainers:
-
-- [David Mawdsley][mawdsley_david]
-- [Jeff Oliver][oliver_jeffrey]
-- Tom Wright
 
 [gapminder]: https://www.gapminder.org/
 [lesson-example]: https://carpentries.github.io/lesson-example
