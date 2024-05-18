@@ -1,5 +1,4 @@
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://slack-invite.carpentries.org/)
-![Build and Deploy Website](https://github.com/swcarpentry/r-novice-gapminder/workflows/Build%20and%20Deploy%20Website/badge.svg)
 [![Slack Status](https://img.shields.io/badge/Slack_Channel-swc--r--gapminder-E01563.svg)](https://carpentries.slack.com/messages/C9Y0M3YKG)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/swcarpentry/r-novice-gapminder/binder?urlpath=rstudio)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3265164.svg)](https://doi.org/10.5281/zenodo.3265164)
@@ -8,7 +7,7 @@
 
 Una introducción a R para no programadores que utilizan los datos [Gapminder][gapminder].
 Consulte [https://swcarpentry.github.io/r-novice-gapminder](https://caemillan.github.io/r-basico) para obtener una versión renderizada de este material.
-[la documentación de la plantilla de la lección][ejemplo de lección]
+[the lesson template documentation][lesson-example]
 para obtener instrucciones sobre cómo formatear, crear y enviar material,
 o ejecute `make` en este directorio para obtener una lista de comandos útiles.
 
