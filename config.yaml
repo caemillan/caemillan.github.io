@@ -86,7 +86,8 @@ schedule:
 - schedule.md
 
 # Learner Profiles
-profiles: 
+profiles:
+- schedule.md
 
 # Customisation ---------------------------------------------
 #
