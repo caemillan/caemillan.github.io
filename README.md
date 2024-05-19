@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/swcarpentry/r-novice-gapminder/binder?urlpath=rstudio)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3265164.svg)](https://doi.org/10.5281/zenodo.3265164)
 
-# R básico para Análisis Cienfiticos Reproducibles
+# R básico para Análisis Cienfíticos Reproducibles
 
 Una introducción a R para no programadores que utilizan los datos [Gapminder][gapminder].
 Consulte [https://caemillan.github.io/r-novice-gapminder](https://caemillan.github.io/r-basico) para obtener una versión renderizada de este material, 
