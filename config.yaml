@@ -82,6 +82,9 @@ learners:
 instructors: 
 
 # Learner Profiles
+schedule: 
+
+# Learner Profiles
 profiles: 
 
 # Customisation ---------------------------------------------
