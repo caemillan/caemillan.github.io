@@ -82,12 +82,7 @@ learners:
 instructors: 
 
 # Learner Profiles
-schedule: 
-- schedule.md
-
-# Learner Profiles
 profiles:
-- schedule.md
 
 # Customisation ---------------------------------------------
 #
