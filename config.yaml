@@ -83,6 +83,7 @@ instructors:
 
 # Learner Profiles
 schedule: 
+- schedule.md
 
 # Learner Profiles
 profiles: 
