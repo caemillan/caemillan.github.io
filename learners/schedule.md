@@ -1,3 +1,8 @@
+---
+title: 'Schedule'
+---
+
+## Schedule
 
 <div class="row">
   <div class="col-md-6">
