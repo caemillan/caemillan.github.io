@@ -11,10 +11,10 @@
 carpentry: 'swc'
 
 # Overall title for pages.
-title: 'R for Reproducible Scientific Analysis'
+title: 'R básico para Análisis Científicos Reproducibles'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2015-04-18'
+created: '2024-05-19'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -27,13 +27,13 @@ life_cycle: 'stable'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/swcarpentry/r-novice-gapminder'
+source: 'https://github.com/caemillan/r-basico'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'cmillanarancibia@gmail.com'
 
 # Navigation ------------------------------------------------
 #
@@ -90,6 +90,6 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://swcarpentry.github.io/r-novice-gapminder'
+url: 'https://caemillan.github.io/r-basico'
 analytics: carpentries
 lang: en
