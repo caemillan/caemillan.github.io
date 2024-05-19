@@ -12,7 +12,7 @@ enseñar las mejores prácticas para la computación científica: dividir los an
 
 Tenga en cuenta que este taller se centra en los fundamentos del lenguaje de programación R y no en el análisis estadístico.
 
-::::::: The lesson contains more material than can be taught in a day.  The [instructor notes page](instructors/instructor-notes.md) has some suggested lesson plans ::::::: suitablefor a one or half day workshop.
+::::::::::::::::::::::::::::::::::::::::::  The lesson contains more material than can be taught in a day.  The [instructor notes page](instructors/instructor-notes.md) has some suggested lesson plans suitablefor a one or half day workshop.
 
 A lo largo de este taller se utilizan una variedad de paquetes de terceros.
 Estos no son necesariamente los mejores ni son completos, 
