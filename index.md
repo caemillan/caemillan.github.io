@@ -2,26 +2,21 @@
 site: sandpaper::sandpaper_site
 ---
 
-*an introduction to R for non-programmers using gapminder data*
+*una introducción a R para no programadores usando datos de gapminder*
 
-The goal of this lesson is to teach novice programmers to write modular code
-and best practices for using R for data analysis. R is commonly used in many
-scientific disciplines for statistical analysis and its array of third-party
-packages. We find that many scientists who come to Software Carpentry workshops
-use R and want to learn more. The emphasis of these materials is to give
-attendees a strong foundation in the fundamentals of R, and to teach best
-practices for scientific computing: breaking down analyses into modular units,
-task automation, and encapsulation.
+El objetivo de esta lección es enseñar a los programadores que recien empiezan en el mundo de la programación con R 
+a escribir código modular y las mejores prácticas para usar R para el análisis de datos.
+R se usa comúnmente en muchas disciplinas científicas para análisis estadístico y su variedad de paquetes de terceros.
+El énfasis de estos materiales es brindar a los asistentes una base sólida en los fundamentos de R y
+enseñar las mejores prácticas para la computación científica: dividir los análisis en unidades modulares, automatización de tareas y encapsulación.
 
-Note that this workshop will focus on teaching the fundamentals of the
-programming language R, and will not teach statistical analysis.
+Tenga en cuenta que este taller se centra en los fundamentos del lenguaje de programación R y no en el análisis estadístico.
 
-The lesson contains more material than can be taught in a day.  The [instructor notes page](instructors/instructor-notes.md) has some suggested lesson plans suitable for a one or half day workshop.
+::::::: The lesson contains more material than can be taught in a day.  The [instructor notes page](instructors/instructor-notes.md) has some suggested lesson plans ::::::: suitablefor a one or half day workshop.
 
-A variety of third party packages are used throughout this workshop. These
-are not necessarily the best, nor are they comprehensive, but they are
-packages we find useful, and have been chosen primarily for their
-usability.
+A lo largo de este taller se utilizan una variedad de paquetes de terceros.
+Estos no son necesariamente los mejores ni son completos, 
+pero son paquetes que consideramos útiles y han sido elegidos principalmente por su facilidad de uso.
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
 
