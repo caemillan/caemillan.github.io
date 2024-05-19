@@ -6,7 +6,7 @@
 # R básico para Análisis Cienfiticos Reproducibles
 
 Una introducción a R para no programadores que utilizan los datos [Gapminder][gapminder].
-Consulte [https://swcarpentry.github.io/r-novice-gapminder](https://caemillan.github.io/r-basico) para obtener una versión renderizada de este material, 
+Consulte [https://caemillan.github.io/r-novice-gapminder](https://caemillan.github.io/r-basico) para obtener una versión renderizada de este material, 
 [la documentación de la plantilla de la lección][lesson-example]
 para obtener instrucciones sobre cómo formatear, crear y enviar material,
 o ejecute `make` en este directorio para obtener una lista de comandos útiles.
@@ -14,7 +14,6 @@ o ejecute `make` en este directorio para obtener una lista de comandos útiles.
 El objetivo de esta lección es enseñar a los programadores que recien empiezan en el mundo de la programación con R 
 a escribir código modular y las mejores prácticas para usar R para el análisis de datos.
 R se usa comúnmente en muchas disciplinas científicas para análisis estadístico y su variedad de paquetes de terceros.
-Encontramos que muchos científicos que vienen a los talleres de Software Carpentry usan R y quieren aprender más.
 El énfasis de estos materiales es brindar a los asistentes una base sólida en los fundamentos de R y
 enseñar las mejores prácticas para la computación científica: dividir los análisis en unidades modulares, automatización de tareas y encapsulación.
 
@@ -27,7 +26,7 @@ A lo largo de este taller se utilizan una variedad de paquetes de terceros.
 Estos no son necesariamente los mejores ni son completos, 
 pero son paquetes que consideramos útiles y han sido elegidos principalmente por su facilidad de uso.
 
-Current Maintainers:
+Mantenedores actuales:
 
 - [Carlos Millan Arancibia](https://github.com/caemillan) (mail: cmillanarancibia@gmail.com)
 
